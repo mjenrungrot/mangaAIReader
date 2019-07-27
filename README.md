@@ -1,0 +1,2 @@
+# mangaAIReader
+Intelligent Manga Reader
